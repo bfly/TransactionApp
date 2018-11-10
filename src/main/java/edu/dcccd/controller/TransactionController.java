@@ -1,8 +1,8 @@
-package edu.dcccd.lesson11.controller;
+package edu.dcccd.controller;
 
-import edu.dcccd.lesson11.entity.Transaction;
-import edu.dcccd.lesson11.repository.SingletonTransaction;
-import edu.dcccd.lesson11.services.TransactionServiceImpl;
+import edu.dcccd.entity.Transaction;
+import edu.dcccd.repository.SingletonTransaction;
+import edu.dcccd.services.TransactionServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;

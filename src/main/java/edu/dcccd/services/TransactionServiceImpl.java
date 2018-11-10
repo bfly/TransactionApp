@@ -1,8 +1,8 @@
-package edu.dcccd.lesson11.services;
+package edu.dcccd.services;
 
-import edu.dcccd.lesson11.entity.SelectedDay;
-import edu.dcccd.lesson11.entity.Transaction;
-import edu.dcccd.lesson11.repository.SingletonTransaction;
+import edu.dcccd.entity.SelectedDay;
+import edu.dcccd.entity.Transaction;
+import edu.dcccd.repository.SingletonTransaction;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

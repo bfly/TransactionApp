@@ -1,7 +1,7 @@
-package edu.dcccd.lesson11.services;
+package edu.dcccd.services;
 
-import edu.dcccd.lesson11.entity.SelectedDay;
-import edu.dcccd.lesson11.entity.Transaction;
+import edu.dcccd.entity.SelectedDay;
+import edu.dcccd.entity.Transaction;
 
 import java.util.List;
 
